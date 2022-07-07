@@ -9,7 +9,7 @@ function moveBackground(event){
     const y = event.clientY * scaleFactor;
 
     for(let i = 0;i<shapes.length;i++){
-        //
+        ////
         const isOdd = i % 2 !== 0;
         //if its an odd integer it rotates one way, if its not, then it rotates the other way
         const boolInt = isOdd ? -1 : 1;
