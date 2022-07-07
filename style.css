@@ -879,7 +879,7 @@ SHAPES
         width: 100%;
     }
 }
-
+/**/
 /*small phones */
 @media(max-width: 600px){
     .title{
