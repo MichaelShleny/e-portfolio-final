@@ -6,7 +6,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color: red;
 }
 
 html{
@@ -878,6 +877,24 @@ SHAPES
 
     .modal__half{
         width: 100%;
+    }
+
+    .mail__btn{
+        width:50px;
+        height: 50px;
+        font-size: 22px;
+}
+
+    .shape--3{
+        opacity: 0;
+    }
+    /**/
+    .shape--4{
+        opacity: 0;
+    }
+
+    .shape--5{
+        opacity: 0;
     }
 }
 
